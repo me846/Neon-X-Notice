@@ -1,0 +1,105 @@
+2023-10-16 15:51:46 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 15:51:47 INFO     __main__ -> synced 1 slash commands
+2023-10-16 15:54:29 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 15:54:30 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-16 15:54:30 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-16 15:54:30 INFO     __main__ -> synced 1 slash commands
+2023-10-16 15:59:52 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 15:59:53 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-16 15:59:53 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-16 15:59:53 INFO     __main__ -> synced 1 slash commands
+2023-10-16 16:02:50 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-16 16:02:50 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-16 16:03:09 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-16 16:03:09 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-16 16:06:05 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 16:06:06 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-16 16:06:06 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-16 16:06:06 INFO     __main__ -> synced 2 slash commands
+2023-10-16 16:07:16 INFO     cogs.notification -> successfully opened notification for Amedrama0608
+2023-10-16 16:07:16 INFO     src.notification.account_tracker -> new task Amedrama0608 added successfully
+2023-10-16 16:07:16 INFO     src.notification.account_tracker -> existing TasksMonitor has been closed
+2023-10-16 16:07:16 INFO     src.notification.account_tracker -> new TasksMonitor has been started
+2023-10-16 16:13:56 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 16:13:57 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-16 16:13:57 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-16 16:13:57 INFO     __main__ -> synced 2 slash commands
+2023-10-16 16:23:36 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 16:23:37 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-16 16:23:37 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-16 16:23:37 INFO     __main__ -> synced 2 slash commands
+2023-10-16 16:24:30 INFO     cogs.notification -> Amedrama0608の通知をオンにしました
+2023-10-16 16:24:30 INFO     src.notification.account_tracker -> new task Amedrama0608 added successfully
+2023-10-16 16:24:30 INFO     src.notification.account_tracker -> existing TasksMonitor has been closed
+2023-10-16 16:24:30 INFO     src.notification.account_tracker -> new TasksMonitor has been started
+2023-10-16 16:25:14 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 16:25:15 INFO     src.notification.account_tracker -> alive tasks : ['Amedrama0608']
+2023-10-16 16:25:15 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-16 16:25:15 INFO     __main__ -> synced 2 slash commands
+2023-10-16 16:26:13 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 16:26:14 INFO     src.notification.account_tracker -> alive tasks : ['Amedrama0608']
+2023-10-16 16:26:14 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-16 16:26:14 INFO     __main__ -> synced 2 slash commands
+2023-10-16 16:27:17 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 16:27:18 INFO     src.notification.account_tracker -> alive tasks : ['Amedrama0608']
+2023-10-16 16:27:18 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-16 16:27:18 INFO     __main__ -> synced 2 slash commands
+2023-10-16 16:35:52 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 16:35:53 WARNING  src.notification.account_tracker -> dead tasks : ['Amedrama0608']
+2023-10-16 16:35:53 INFO     src.notification.account_tracker -> restart Amedrama0608 successfully
+2023-10-16 16:35:53 WARNING  src.notification.account_tracker -> tweets updater : dead
+2023-10-16 16:35:53 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-16 16:35:53 INFO     __main__ -> synced 2 slash commands
+2023-10-16 16:36:53 WARNING  src.notification.account_tracker -> dead tasks : ['Amedrama0608']
+2023-10-16 16:36:53 INFO     src.notification.account_tracker -> restart Amedrama0608 successfully
+2023-10-16 16:36:53 WARNING  src.notification.account_tracker -> tweets updater : dead
+2023-10-16 16:37:07 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 16:37:08 WARNING  src.notification.account_tracker -> tweets updater : dead
+2023-10-16 16:37:08 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-16 16:37:08 INFO     __main__ -> synced 2 slash commands
+2023-10-16 16:37:46 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 16:37:47 WARNING  src.notification.account_tracker -> tweets updater : dead
+2023-10-16 16:37:47 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-16 16:37:47 INFO     __main__ -> synced 2 slash commands
+2023-10-16 16:38:47 WARNING  src.notification.account_tracker -> tweets updater : dead
+2023-10-16 16:39:47 WARNING  src.notification.account_tracker -> tweets updater : dead
+2023-10-16 16:40:08 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-16 16:40:08 WARNING  src.notification.account_tracker -> tweets updater : dead
+2023-10-16 16:40:08 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-16 16:40:09 INFO     __main__ -> synced 2 slash commands
+2023-10-17 15:28:46 INFO     __main__ -> Neon Chat#4461 is online
+2023-10-17 15:28:47 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-17 15:28:47 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-17 15:28:47 INFO     __main__ -> synced 2 slash commands
+2023-10-17 15:45:03 INFO     __main__ -> Neon X Notice#5287 is online
+2023-10-17 15:45:04 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-17 15:45:04 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-17 15:45:04 INFO     __main__ -> synced 2 slash commands
+2023-10-17 15:56:18 INFO     __main__ -> Neon X Notice#5287 is online
+2023-10-17 15:56:18 INFO     src.notification.account_tracker -> alive tasks : []
+2023-10-17 15:56:18 INFO     src.notification.account_tracker -> tweets updater : alive
+2023-10-17 15:56:19 INFO     __main__ -> synced 2 slash commands
+2023-10-17 16:08:52 INFO     cogs.notification -> LoLJPOfficialの通知をオンにしました!
+2023-10-17 16:08:52 INFO     src.notification.account_tracker -> new task LoLJPOfficial added successfully
+2023-10-17 16:08:52 INFO     src.notification.account_tracker -> existing TasksMonitor has been closed
+2023-10-17 16:08:52 INFO     src.notification.account_tracker -> new TasksMonitor has been started
+2023-10-17 16:09:20 INFO     cogs.notification -> RiotGamesJapanの通知をオンにしました!
+2023-10-17 16:09:20 INFO     src.notification.account_tracker -> new task RiotGamesJapan added successfully
+2023-10-17 16:09:20 INFO     src.notification.account_tracker -> existing TasksMonitor has been closed
+2023-10-17 16:09:20 INFO     src.notification.account_tracker -> new TasksMonitor has been started
+2023-10-17 16:09:36 INFO     cogs.notification -> RiotPhroxzonの通知をオンにしました!
+2023-10-17 16:09:36 INFO     src.notification.account_tracker -> new task RiotPhroxzon added successfully
+2023-10-17 16:09:36 INFO     src.notification.account_tracker -> existing TasksMonitor has been closed
+2023-10-17 16:09:36 INFO     src.notification.account_tracker -> new TasksMonitor has been started
+2023-10-17 16:09:51 INFO     cogs.notification -> Mortdogの通知をオンにしました!
+2023-10-17 16:09:51 INFO     src.notification.account_tracker -> new task Mortdog added successfully
+2023-10-17 16:09:51 INFO     src.notification.account_tracker -> existing TasksMonitor has been closed
+2023-10-17 16:09:51 INFO     src.notification.account_tracker -> new TasksMonitor has been started
+2023-10-17 16:10:42 INFO     cogs.notification -> watteauADの通知をオンにしました!
+2023-10-17 16:10:42 INFO     src.notification.account_tracker -> new task watteauAD added successfully
+2023-10-17 16:10:42 INFO     src.notification.account_tracker -> existing TasksMonitor has been closed
+2023-10-17 16:10:42 INFO     src.notification.account_tracker -> new TasksMonitor has been started
+2023-10-17 16:10:57 INFO     cogs.notification -> SejuPoro_lolの通知をオンにしました!
+2023-10-17 16:10:57 INFO     src.notification.account_tracker -> new task SejuPoro_lol added successfully
+2023-10-17 16:10:57 INFO     src.notification.account_tracker -> existing TasksMonitor has been closed
+2023-10-17 16:10:57 INFO     src.notification.account_tracker -> new TasksMonitor has been started
